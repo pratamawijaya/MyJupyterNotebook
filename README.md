@@ -1,4 +1,5 @@
-
+## How to start
+install dependencies with `pip install -r requirements`
 ## Activating env
 `source venv/bin/activate`
 
