@@ -10,3 +10,8 @@ run this command
 ```
 python -m venv env_name
 ```
+
+## How to run jupyter
+```
+jupyter notebook
+```
